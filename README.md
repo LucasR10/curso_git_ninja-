@@ -1,6 +1,6 @@
 
 # curso_git_ninja-
-#Comandos - GIT 
+# Comandos - GIT 
 1 - git init = inicializa um projeto git.
 2 - git log = verifica status 
 
